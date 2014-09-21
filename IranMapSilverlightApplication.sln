@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IranMapSilverlightApplication", "IranMapSilverlightApplication\IranMapSilverlightApplication.csproj", "{AAA6C23D-A8CE-4F1F-808A-CA56595F2DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IranMapSilverlightApplication.Web", "IranMapSilverlightApplication.Web\IranMapSilverlightApplication.Web.csproj", "{5443E86C-703C-4D64-8EF0-EA25330E7FCE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs35
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IranMapSilverlightApplication.Web\\IranMapSilverlightApplication.Web.csproj
+		SccProjectName1 = IranMapSilverlightApplication.Web
+		SccLocalPath1 = IranMapSilverlightApplication.Web
+		SccProjectUniqueName2 = IranMapSilverlightApplication\\IranMapSilverlightApplication.csproj
+		SccProjectName2 = IranMapSilverlightApplication
+		SccLocalPath2 = IranMapSilverlightApplication
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA6C23D-A8CE-4F1F-808A-CA56595F2DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA6C23D-A8CE-4F1F-808A-CA56595F2DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA6C23D-A8CE-4F1F-808A-CA56595F2DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA6C23D-A8CE-4F1F-808A-CA56595F2DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5443E86C-703C-4D64-8EF0-EA25330E7FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5443E86C-703C-4D64-8EF0-EA25330E7FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5443E86C-703C-4D64-8EF0-EA25330E7FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5443E86C-703C-4D64-8EF0-EA25330E7FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
