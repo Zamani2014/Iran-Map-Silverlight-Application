@@ -1,26 +1,27 @@
-# ATM Simulation Sample Application 
+# Iran Map Silverlight Project
 > (Educational)
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-A software engineering project to learning OOA & OOD. The original project in the Java platform has developed and I moved it to the .NET platform.
+An open source project for programmers and web designers, especially Microsoft Silverlight-based projects.
 
 
 ## Installation
 
 ```sh
 Minimum requirements:
-1. .NET Platform / Mono platform Support (For Dot NET Version)
-2. Java Platform / Java Runtime Environment (JRE) (For Java Version)
+1. .NET Platform 
+2. MS Silverlight SDK
+3. MS Visual Studio
 ```
 
 
 ## Usage example
 
 ```sh
-To learning Object Oriented Analysis and Design (OOAD) and Object Oriented Programming (OOP)
+Iran map in Silverlight projects
 ```
 
 ## Development setup
@@ -28,7 +29,6 @@ To learning Object Oriented Analysis and Design (OOAD) and Object Oriented Progr
 ```sh
 Minimum requirements:
 1. MS Visual Studio / MonoDevelop
-2. NetBeans IDE or another IDE
 ```
 
 ## Release History
